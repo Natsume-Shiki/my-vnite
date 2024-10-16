@@ -1,0 +1,543 @@
+{
+  "874144501": {
+    "detail": {
+      "name": "ガマンができない童貞兄貴と、スナオになれない反抗妹",
+      "chineseName": "无法忍耐的处男哥哥和不直率的叛逆妹妹",
+      "extensionName": [
+        "童貞兄妹",
+        "童贞兄妹",
+        "Desperate Virgin Brother & Rebellious Little Sister"
+      ],
+      "introduction": "　『こんな妹に育てた覚えはありませんっ！』\n\n　主人公は妹大好きなお兄ちゃん、今日もアプリの中の妹キャラに話しかける日々。\n　「はー……今日も俺の妹最っ高にかわいい」\n　妹は最近お兄ちゃんに大ハマり、今日もゲームの中のお兄ちゃんに首ったけ。\n　「お兄ちゃんカッコいい、これマジでヤバい♪」\n\n　ところが、そんな場面に兄妹がハチ合わせようものならば……\n　「オマエの事じゃねぇ！」「アンタの事じゃないしっ！」\n　とケンカの始まる日々。\n\n\n　こんなお兄ちゃんだが一つだけ、破れぬ誓いが存在する。\n　『妹の誕生日には、必ず何かをプレゼントをする！』\n　今年もその日が迫ってきていた……\n\n　仲の悪い兄妹の、ラブラブ関係してみませんか？",
+      "id": "874144501",
+      "gid": "ga38672",
+      "vid": null,
+      "cover": "/games/874144501/cover.webp",
+      "icon": "/games/874144501/icon.png",
+      "backgroundImage": "/games/874144501/background.webp",
+      "savePath": "E:/galgame/无法忍耐的处男哥哥和不直率的叛逆妹妹/savedata_CN",
+      "gamePath": "E:/galgame/无法忍耐的处男哥哥和不直率的叛逆妹妹/童貞兄妹_CN.exe",
+      "startWithLe": false,
+      "volume": 3130,
+      "addDate": "2024-09-12",
+      "gameDuration": 1956,
+      "lastVisitDate": 1726185600000,
+      "frequency": 1,
+      "playStatus": 0,
+      "moreEntry": [],
+      "typeDesc": "ADV",
+      "developer": "Sister Position",
+      "developerId": 20895,
+      "releaseDate": "2022-07-24",
+      "restricted": true,
+      "websites": [
+        {
+          "title": "DLsite",
+          "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ393720.html"
+        },
+        {
+          "title": "月幕Galgame",
+          "url": "https://www.ymgal.games/ga38672"
+        },
+        {
+          "title": "VNDB",
+          "url": "https://vndb.org/null"
+        }
+      ],
+      "releases": [
+        {
+          "id": 732908,
+          "releaseName": "ガマンができない童貞兄貴と、スナオになれない反抗妹",
+          "relatedLink": "https://ci-en.dlsite.com/creator/922/article/tag/ちゃたのおもらし日記?mode=detail&amp;page=1",
+          "platform": "Windows",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        }
+      ],
+      "staff": {
+        "脚本": [
+          {
+            "name": "東人",
+            "pid": 11595,
+            "empDesc": ""
+          }
+        ],
+        "原画": [
+          {
+            "name": "アトリエ空機関",
+            "pid": 15152,
+            "empDesc": "Backgrounds"
+          },
+          {
+            "name": "K子",
+            "pid": 21058,
+            "empDesc": ""
+          },
+          {
+            "name": "麻の葉",
+            "pid": 21062,
+            "empDesc": "Guest artist"
+          }
+        ],
+        "监督": [
+          {
+            "name": "ちゃた",
+            "pid": 31849,
+            "empDesc": ""
+          }
+        ],
+        "其他": [
+          {
+            "name": "つゑふ",
+            "pid": 32119,
+            "empDesc": "Graphic design & coloring"
+          },
+          {
+            "name": "K子",
+            "pid": 21058,
+            "empDesc": ""
+          }
+        ]
+      }
+    },
+    "characters": [
+      {
+        "name": "ナビ娘",
+        "introduction": "",
+        "cid": 106821,
+        "vid": null,
+        "cover": "/games/874144501/characters/106821.webp",
+        "extensionName": [
+          "第9世代自立志向型仮想人型管理アプリケーション",
+          "Nineth Automaterial Virtual Idol ConciergeAPP"
+        ],
+        "gender": 2,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca106821"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/null"
+          }
+        ]
+      },
+      {
+        "name": "ちえ",
+        "introduction": "Chie has 3 different appearances (hairstyle, accessories, hair color, face expressions) and 3 personalities (interests, personality traits, speech style) based on the 13 choices made at the start of each playthrough, resulting in 9 available variations.",
+        "cid": 111140,
+        "vid": null,
+        "cover": "/games/874144501/characters/111140.webp",
+        "extensionName": [],
+        "gender": 2,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca111140"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/null"
+          }
+        ]
+      }
+    ],
+    "saves": [
+      {
+        "id": 1,
+        "date": "2024-09-13 21:06:36",
+        "note": "",
+        "path": "/874144501/saves/1"
+      }
+    ],
+    "memories": [],
+    "startWithLe": false
+  },
+  "975206870": {
+    "detail": {
+      "name": "リアル妹がいる大泉くんのばあい",
+      "chineseName": "实妹相伴的大泉君",
+      "extensionName": [
+        "Riaimo",
+        "Real Imouto gairu Ooizumikun no Baai"
+      ],
+      "introduction": "这个世界上，有两种类型的哥哥——\n\n第一种，对现实中的妹妹已经彻底绝望，以至于哪怕是在游戏中也燃不起对妹妹的爱。\n第二种，正因为对现实中的妹妹已经绝望，才更要在游戏的世界中寻找理想妹妹。\n而这个故事所要讲述的，正是后者。\n这是关于一个在受尽现实妹妹那「恶心」、「不像样」之类的攻击，却依旧在美少女游戏中寻求理想妹妹，随处可见的平凡哥哥，那充满血泪、汗水，以及其他糟糕液体的故事。\n\n主人公大泉涼，是一个在无数美少女游戏中与妹妹相爱的纯粹的哥哥。\n这样的他，深深迷上了某一个游戏里边的妹妹。\n喜欢的声优，加上喜欢的原画家，还有那专为哥哥打造的稍稍有点H的妹妹。\n而他那现实中的妹妹——栞，对于他这个沉迷游戏的哥哥却是如同看待肮脏物品般的相待。\n相反地，游戏中的妹妹——麻衣，则是绝不会那样子看待自己的。\n一起洗澡，牵着手一起上学，那些都是现实中所没有的。\n\n就在某一天的夜里，涼做了一个不可思议的梦。\n用甜蜜声音以「哥哥」叫自己的，正是之前在游戏中相爱的理想中的妹妹——麻衣。\n第二天，更加不可思议的事情发生了。\n「哥哥，起来啦。诶，哥～哥。」\n身体被轻轻摇动着，睁开沉重的眼睑，映在眼前的居然是——\n\n「早上好，哥哥♪」\n「麻……麻衣!?」\n\n这个骑在身上叫自己起床的，正是和游戏里的角色一模一样的女孩子呀。",
+      "id": "975206870",
+      "gid": "ga13437",
+      "vid": "v3746",
+      "cover": "/games/975206870/cover.webp",
+      "icon": "/games/975206870/icon.png",
+      "backgroundImage": "/games/975206870/background.webp",
+      "startWithLe": false,
+      "volume": 1113,
+      "addDate": "2024-10-11",
+      "gameDuration": 1533,
+      "lastVisitDate": 1729083381888,
+      "frequency": 3,
+      "playStatus": 0,
+      "moreEntry": [],
+      "typeDesc": "妹と共に生きるADV",
+      "developer": "ALcot Honey Comb",
+      "developerId": 11293,
+      "releaseDate": "2010-05-28",
+      "restricted": true,
+      "websites": [
+        {
+          "title": "wikidata",
+          "url": "https://en.wikidata.org/wiki/Q10955466"
+        },
+        {
+          "title": "官方网站",
+          "url": "http://www.h-comb.biz/product/03/index.html"
+        },
+        {
+          "title": "月幕Galgame",
+          "url": "https://www.ymgal.games/ga13437"
+        },
+        {
+          "title": "VNDB",
+          "url": "https://vndb.org/v3746"
+        }
+      ],
+      "releases": [
+        {
+          "id": 116679,
+          "releaseName": "Alcot Honey Comb 文庫セット ダウンロード版",
+          "relatedLink": "",
+          "platform": "Windows",
+          "releaseDate": "2017-04-28",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116680,
+          "releaseName": "Alcot Honey Comb 文庫セット",
+          "relatedLink": "",
+          "platform": "Windows",
+          "releaseDate": "2014-08-29",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116681,
+          "releaseName": "リアル妹がいる大泉くんのばあい ダウンロード版",
+          "relatedLink": "http://www.h-comb.biz/product/03/index.html",
+          "platform": "Windows",
+          "releaseDate": "2013-11-15",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116682,
+          "releaseName": "リアル妹がいる大泉くんのばあい",
+          "relatedLink": "http://buztrans.blogspot.com/",
+          "platform": "Windows",
+          "releaseDate": "2013-04-22",
+          "releaseLanguage": "Vietnamese",
+          "restrictionLevel": "全年龄"
+        },
+        {
+          "id": 116683,
+          "releaseName": "실제 여동생이 있는 오오이즈미군의 경우",
+          "relatedLink": "",
+          "platform": "Windows",
+          "releaseDate": "2012-07-02",
+          "releaseLanguage": "Korean",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116684,
+          "releaseName": "Real Imouto ga Iru Ooizumi-kun no Baai",
+          "relatedLink": "http://tlwiki.org/index.php?title=Real_Imouto_ga_Iru",
+          "platform": "Windows",
+          "releaseDate": "2011-08-13",
+          "releaseLanguage": "English",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116685,
+          "releaseName": "リアル妹がいる大泉くんのばあい 普及版",
+          "relatedLink": "http://www.h-comb.biz/product/03/index.html",
+          "platform": "Windows",
+          "releaseDate": "2011-01-28",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116686,
+          "releaseName": "实妹相伴的大泉君",
+          "relatedLink": "http://bbs.sumisora.org/read.php?tid=10971357",
+          "platform": "Windows",
+          "releaseDate": "2010-08-21",
+          "releaseLanguage": "Chinese",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116687,
+          "releaseName": "リアル妹がいる大泉くんのばあい",
+          "relatedLink": "http://www.h-comb.biz/product/03/index.html",
+          "platform": "Windows",
+          "releaseDate": "2010-05-28",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        },
+        {
+          "id": 116688,
+          "releaseName": "リアル妹がいる大泉くんのばあい 体験版",
+          "relatedLink": "http://www.h-comb.biz/product/03/page_dl/dl_tr.html",
+          "platform": "Windows",
+          "releaseDate": "2010-05-14",
+          "releaseLanguage": "Japanese",
+          "restrictionLevel": "R18+"
+        }
+      ],
+      "staff": {
+        "脚本": [
+          {
+            "name": "おるごぅる",
+            "pid": 10515,
+            "empDesc": ""
+          }
+        ],
+        "音乐": [
+          {
+            "name": "中山♡マミ",
+            "pid": 11296,
+            "empDesc": "OP Lyrics"
+          },
+          {
+            "name": "神代 あみ",
+            "pid": 12406,
+            "empDesc": "ED Lyrics"
+          },
+          {
+            "name": "森 まもる",
+            "pid": 21204,
+            "empDesc": "BGM"
+          },
+          {
+            "name": "Angel Note",
+            "pid": 20422,
+            "empDesc": ""
+          },
+          {
+            "name": "椎名 俊介",
+            "pid": 22022,
+            "empDesc": ""
+          },
+          {
+            "name": "BAL",
+            "pid": 22727,
+            "empDesc": ""
+          }
+        ],
+        "原画": [
+          {
+            "name": "風見 春樹",
+            "pid": 11512,
+            "empDesc": ""
+          },
+          {
+            "name": "タコ焼き",
+            "pid": 20823,
+            "empDesc": ""
+          },
+          {
+            "name": "蒼魚 真青",
+            "pid": 21333,
+            "empDesc": "SD"
+          }
+        ],
+        "歌曲": [
+          {
+            "name": "片霧 烈火",
+            "pid": 10120,
+            "empDesc": "OP 'your little sister', ED 'Dear My Precious'"
+          }
+        ],
+        "监督": [
+          {
+            "name": "宮蔵",
+            "pid": 11882,
+            "empDesc": ""
+          }
+        ],
+        "其他": [
+          {
+            "name": "おるごぅる",
+            "pid": 10515,
+            "empDesc": "Planning"
+          },
+          {
+            "name": "KIZAWA studio",
+            "pid": 20406,
+            "empDesc": "Movie"
+          },
+          {
+            "name": "空下 元",
+            "pid": 11881,
+            "empDesc": "Script"
+          },
+          {
+            "name": "宮蔵",
+            "pid": 11882,
+            "empDesc": "Producer"
+          },
+          {
+            "name": "かつらぎ",
+            "pid": 21777,
+            "empDesc": "Script"
+          }
+        ]
+      }
+    },
+    "characters": [
+      {
+        "name": "大泉 栞",
+        "chineseName": "大泉 栞",
+        "introduction": "出自《实妹相伴的大泉君》。\n\n大泉凉的妹妹。\n讨厌整天只会在房间里玩美少女游戏的哥哥，\n也正是因为哥哥，\n才使得栞从小就将男孩子定位为只会玩美少女游戏的死宅，\n基本丧失了对男生的兴趣。\n\n性格强硬，喜欢打篮球，讨厌输。\n\n虽然现在对哥哥的态度很坏，\n其实小时候的栞和哥哥的感情非常好，\n经常和哥哥一起打篮球。",
+        "cid": 10436,
+        "vid": "c458",
+        "cover": "/games/975206870/characters/10436.webp",
+        "extensionName": [],
+        "birthday": "06-06",
+        "gender": 2,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca10436"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/c458"
+          }
+        ]
+      },
+      {
+        "name": "大泉 麻衣",
+        "chineseName": "大泉 麻衣",
+        "introduction": "出自《实妹相伴的大泉君》。\n\n某一天突然来到凉身边，理想的妹妹。\n是在凉沉迷其中的美少女游戏中登场的妹妹，\n因为大泉凉总是温柔待她，\n为了报恩而来到三次元世界。\n\n不管对谁都很温柔，\n总是笑容满面。喜欢照顾人，\n也善于料理家务，\n只是有点爱撒娇、爱粘哥哥，\n也很容易吃醋，\n是凉的理想妹妹，\n和栞可说是完全相反的性格。",
+        "cid": 10437,
+        "vid": "c459",
+        "cover": "/games/975206870/characters/10437.webp",
+        "extensionName": [],
+        "birthday": "09-06",
+        "gender": 2,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca10437"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/c459"
+          }
+        ]
+      },
+      {
+        "name": "妹尾 美紀",
+        "chineseName": "妹尾 美纪",
+        "introduction": "出自《实妹相伴的大泉君》。\n\n妹尾彰的妹妹，也是大泉栞的好友。\n为人爽快，作风也是男孩子气十足。\n经常和栞一起感叹各自不像样的哥哥。\n栞所属的篮球部的经理，\n两人都很积极地参加社团活动，经常忙到很晚。\n\n被大泉凉如此评价：“那家伙可是好妹子预备军哦”。\n喜欢帅哥，也因此很羡慕栞有那样一个哥哥，\n对自己的哥哥却很冷淡，\n每天都想让他人间蒸发掉。\n只有在要零花钱的时候才会摆出可爱模样来，\n把钱都诈光。",
+        "cid": 10439,
+        "vid": "c461",
+        "cover": "/games/975206870/characters/10439.webp",
+        "extensionName": [],
+        "birthday": "10-25",
+        "gender": 2,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca10439"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/c461"
+          }
+        ]
+      },
+      {
+        "name": "大泉 涼",
+        "chineseName": "大泉 凉",
+        "introduction": "出自《实妹相伴的大泉君》。\n\n大泉栞的哥哥，\n长相帅气的宅，\n总是窝在家里玩美少女游戏攻略妹系角色。\n因此现实中的妹妹栞总是对他冷嘲热讽。\n\n为人温厚老实，只是一旦玩起妹系游戏，\n哪怕明知是显示器也会去搭话。\n虽然对现实的妹妹也是很温柔，\n但自知栞在回避自己，也就不刻意去接近她。\n\n成绩优秀，运动神经也很出众，\n在学校里是模范优等生一般的存在。\n然而到了家里就会变成一味玩H-GAME的宅。\n\n只有在玩游戏或学习中才戴眼镜。\n本人倒是没有察觉，其实他似乎在喜欢眼镜男的女生中很有人气。",
+        "cid": 10440,
+        "vid": "c462",
+        "cover": "/games/975206870/characters/10440.webp",
+        "extensionName": [],
+        "gender": 1,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca10440"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/c462"
+          }
+        ]
+      },
+      {
+        "name": "古賀 剛",
+        "chineseName": "古贺 刚",
+        "introduction": "出自《实妹相伴的大泉君》。\n\n篮球部的王牌，\n真心热爱篮球，\n鄙视那些只是玩玩篮球而不认真打的人，\n因此也对打篮球的女生抱有恶意的偏见。",
+        "cid": 10441,
+        "vid": "c463",
+        "cover": "/games/975206870/characters/10441.webp",
+        "extensionName": [],
+        "gender": 1,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca10441"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/c463"
+          }
+        ]
+      },
+      {
+        "name": "妹尾 彰",
+        "chineseName": "妹尾 彰",
+        "introduction": "出自《实妹相伴的大泉君》。\n\n大泉凉的好友，同样是二次元妹崇拜者。\n和主人公一样有一个现实中的妹妹，\n但和她关系十分冷淡。轻佻的乐观主义者。\n\n经常和凉争夺同一游戏里的同一个妹妹。\n也是凉的一个倾诉对象。\n不擅长运动，总是被妹妹美纪耍得团团转。\n大部分时候都在说自己妹妹的坏话，\n但当她开始向自己撒娇便会对她言听计从。\n\n以前买过一个以为是萌作的妹系游戏，\n玩过之后却发现是个NTR作，\n游戏中的妹妹被一个金发男人NTR掉，\n这差点让他变成一个废人。\n从这件事开始敌视NTR题材的作品。",
+        "cid": 10442,
+        "vid": "c464",
+        "cover": "/games/975206870/characters/10442.webp",
+        "extensionName": [],
+        "gender": 1,
+        "websites": [
+          {
+            "title": "月幕Galgame",
+            "url": "https://www.ymgal.games/ca10442"
+          },
+          {
+            "title": "VNDB",
+            "url": "https://vndb.org/c464"
+          }
+        ]
+      }
+    ],
+    "saves": [
+      {
+        "id": 1,
+        "date": "2024-10-11 19:55:18",
+        "note": "",
+        "path": "/975206870/saves/1"
+      },
+      {
+        "id": 2,
+        "date": "2024-10-11 20:26:17",
+        "note": "",
+        "path": "/975206870/saves/2"
+      },
+      {
+        "id": 3,
+        "date": "2024-10-16 20:56:21",
+        "note": "",
+        "path": "/975206870/saves/3"
+      }
+    ],
+    "memories": [],
+    "startWithLe": false
+  }
+}

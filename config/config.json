@@ -1,0 +1,35 @@
+{
+  "cloudSync": {
+    "enabled": true,
+    "mode": "github",
+    "webdav": {
+      "url": "",
+      "path": "/my-vnite",
+      "username": "",
+      "password": "",
+      "lastSyncTime": ""
+    },
+    "github": {
+      "clientId": "Ov23liVrFw4AK7oYgYNm",
+      "clientSecret": "a67c7a575870e7e4469abf74d4d81c3ba7beb7d5",
+      "username": "Natsume-Shiki",
+      "accessToken": "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",
+      "repoUrl": "https://github.com/Natsume-Shiki/my-vnite.git",
+      "lastSyncTime": "2024-10-16 20:56:53"
+    }
+  },
+  "advance": {
+    "lePath": ""
+  },
+  "general": {
+    "theme": "default",
+    "language": "en",
+    "quitToTray": true
+  },
+  "others": {
+    "posterWall": {
+      "sortOrder": "desc",
+      "sortBy": "name"
+    }
+  }
+}
